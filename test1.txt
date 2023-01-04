@@ -9,3 +9,6 @@ chase
 prosper
 lendingclub
 sofi
+robinhood
+nyra
+

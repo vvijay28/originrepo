@@ -6,3 +6,6 @@ discover*2
 citi
 affinity
 chase
+prosper
+lendingclub
+sofi

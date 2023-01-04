@@ -11,4 +11,6 @@ lendingclub
 sofi
 robinhood
 nyra
-
+kala
+chand
+raj
